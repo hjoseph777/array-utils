@@ -4,6 +4,7 @@ This project provides utility functions for managing dynamic arrays in Java. It 
 
 ## Project Structure
 
+<pre>
 c:/Users/Owner/ObjectOriented_Ass2/array-utils
 ├── pom.xml
 │
@@ -19,7 +20,7 @@ c:/Users/Owner/ObjectOriented_Ass2/array-utils
 │
 ├── Pictureshot.png
 └── README.md
-
+</pre>
 ## Classes
 ### src/main/java/com/example/arrayutils
 
@@ -41,5 +42,4 @@ This directory contains the main Java classes for the project.
 
 ![Screenshot](Pictureshot.png)
 
-## License
 
