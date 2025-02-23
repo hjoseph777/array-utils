@@ -41,5 +41,4 @@ This directory contains the main Java classes for the project.
 
 ![Screenshot](Pictureshot.png)
 
-## License
 
